@@ -12,5 +12,4 @@ Don't forget to include the itch URL in the readme. I created this repository be
 2025/7/30 https://sampleboy.itch.io/godot1
 
 githubでフルバックアップは実質不可。
-Scenes,Scripts,UIそれぞれのディレクトリのみ。マテリアルは含まれない。復元するときはマテリアルのアタッチを自分で作って適当にやる必要がある。
-ディレクトリの構成から考えられる際にはマテリアルもバックアップに含める。
+Assets.zipのみバックアップ。日付_バージョン番号_Assets.zip コミットメッセージにitchのURLを記載
